@@ -1,0 +1,13 @@
+.hero-img {
+    height: 10vh;
+}
+
+.hero-content {
+    position: absolute;
+    top: 10%;
+}
+
+.hero-content h1 {
+    color: #c3512f;
+}
+
